@@ -8,6 +8,7 @@ import CashmanImg from '../../assert/Cashman.png';
 import SmartspendImg from '../../assert/Smartspend.png';
 import NeovateImg from '../../assert/Neovate.png';
 import FabspectorImg from '../../assert/Fabspector.png';
+import MASImg from '../../assert/MAS.png';
 
 const Projects = () => {
   const sectionRef = useRef(null);
@@ -31,6 +32,15 @@ const Projects = () => {
   }, []);
 
   const projects = [
+    {
+      title: 'Muthu Ambulance Service',
+      description: 'Developed a website for an ambulance service company with modern UI/UX and integrated contact functionality.',
+      tech: ['React', 'EmailJS', 'TailwindCSS'],
+      category: 'Web Development',
+      date: 'Jan 2026 - Jan 2026',
+      link: 'https://www.muthuambulance.works',
+      image: MASImg,
+    },
     {
       title: 'Kongu TBI Website Redesign',
       description: 'Redesigned College incubator website with modern UI , improved user experience and Handled full deployment pipeline .',

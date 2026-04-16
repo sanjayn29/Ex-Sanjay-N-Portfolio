@@ -24,43 +24,6 @@
 <br>
 <br>
 
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
-<h3 align="left">Languages</h3>
-<ul>
-  <li><span> Java, Python, C, SQL</span></li>
-</ul>
-
-<h3 align="left">Web & Mobile</h3>
-<ul>
-  <li><span>React.js, Node.js, HTML,
-CSS, TailwindCSS</span></li>
-</ul>
-
-<h3 align="left">Database</h3>
-<ul>
-  <li><span>MongoDB, PostgreSQL,
-Firebase, Supabase</span></li>
-</ul>
-
-<h3 align="left">Frameworks</h3>
-<ul>
-  <li><span>Pandas, NumPy, Keras, OpenCV, Tf, PyTorch</span></li>
-</ul>
-
-<h3 align="left">Tools</h3>
-<ul>
-  <li><span>Postman, Docker, PowerBi, Git, Figma, Jupyter</span></li>
-</ul>
-
-<br>
-<br>
-
 <h2 align="center">💼 Professional Experience</h2>
 
 <div align="center">
@@ -181,26 +144,6 @@ Firebase, Supabase</span></li>
 
 
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=EED05A&style=for-the-badge" />
-</p>
-<p align="center">
-  <a href="mailto:sanjayn29.aiml@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/_sanjay_n_/" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Instagram" />
-  </a>
-  <a href="https://github.com/sanjayn29" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanjayn29" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/sanjayn29" target="_blank">
-    <img src="./leetcode.png" width="50" height="50" alt="LeetCode" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EED05A&height=65&section=footer"/>
